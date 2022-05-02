@@ -4,6 +4,7 @@
         "pets": {
                 "number_of_pets": "1",
                 "type": "cat"
+		"name": "Barsik"
             }
         "desired_salary": "3000$$"
         
