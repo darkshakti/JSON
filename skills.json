@@ -1,9 +1,0 @@
-{
-     "skills": {
-	"basic theory": ["bag reports", "documentation"],
-	"HTTP methods":["GET", "POST", "PUT", "DELETE"],
-	"Basic SQL":["Create", "Read", "Drop", "Insert into", "Select", "From", "Where", "Join"],
-	"Terminal Linux": ["Copy file", "Create file", "Delete file", "Many others"]
-     }
-
-}
