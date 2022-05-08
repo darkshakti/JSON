@@ -1,7 +1,7 @@
-{ "Bug ID":"",
-   "Summary":"",
- "Steps to reproduce":"",
- "Actual result":"",
- "Expected result":"",
- "Enviroment":"",
+{ "Bug ID":"BR01",
+   "Summary":"Upgrade doesn't work",
+ "Steps to reproduce":"1. Go to www.yolochka.com; 2.Click to upgrade button on the top of the page",
+ "Actual result":"An error message appeared",
+ "Expected result":"Start of update",
+ "Enviroment":"Google Chrome v. 101.0.4951.54",
 }
